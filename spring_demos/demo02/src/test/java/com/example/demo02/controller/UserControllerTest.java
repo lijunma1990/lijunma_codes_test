@@ -1,6 +1,6 @@
 package com.example.demo02.controller;
 
-import cn.iocoder.springboot.lab23.springmvc.Application;
+import com.example.demo02.Demo02Application;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,7 +18,7 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
  * UserController 集成测试
  */
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = Application.class)
+@SpringBootTest(classes = Demo02Application.class)
 @AutoConfigureMockMvc
 public class UserControllerTest {
 
@@ -82,8 +82,8 @@ public class UserControllerTest {
     public void testAdd() throws Exception {
         // 获得指定用户编号的用户
         ResultActions resultActions = mvc.perform(MockMvcRequestBuilders.post("/users")
-            .param("username", "yudaoyuanma")
-            .param("passowrd", "nicai"));
+                .param("username", "yudaoyuanma")
+                .param("passowrd", "nicai"));
         // 校验结果
         resultActions.andExpect(MockMvcResultMatchers.status().isOk()); // 响应状态码 200
         resultActions.andExpect(MockMvcResultMatchers.content().string("1")); // 响应结果

@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b6c77e-a3da-4541-8a03-dc15ac17089c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/demo01/controller/helloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/controller/UserController2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/dto/UserAddDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/dto/UserUpdateDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/vo/UserVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/controller/UserControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/controller/UserControllerTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo02/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/controller/UserControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691462096306</updated>
-      <workItem from="1691462102086" duration="9390000" />
+      <workItem from="1691462102086" duration="9792000" />
     </task>
     <servers />
   </component>
