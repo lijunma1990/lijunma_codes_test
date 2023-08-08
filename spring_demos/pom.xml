@@ -23,8 +23,9 @@
     </properties>
 
     <modules>
-        <!--子模块-->
+        <!--子模块demo01:hello world !-->
         <module>demo01</module>
+        <!--子模块demo02:spring mvc-->
         <module>demo02</module>
     </modules>
 

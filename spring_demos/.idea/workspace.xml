@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38b6c77e-a3da-4541-8a03-dc15ac17089c" name="Default Changelist" comment="" />
+    <list default="true" id="38b6c77e-a3da-4541-8a03-dc15ac17089c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo01/src/main/java/com/example/demo01/controller/helloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/controller/UserController2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/dto/UserAddDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/dto/UserUpdateDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/main/java/com/example/demo02/vo/UserVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/controller/UserControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/controller/UserControllerTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -20,12 +41,23 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo02/src/test/java/com/example/demo02" />
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo01Application">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lijunma_codes_test\spring_demos\demo02\src\test\java\com\example\demo02" />
+      <recent name="D:\lijunma_codes_test\spring_demos\demo02\src\main\java\com\example\demo02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo01Application">
     <configuration name="Demo01Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo01.Demo01Application" />
       <module name="demo01" />
@@ -69,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691462096306</updated>
-      <workItem from="1691462102086" duration="3139000" />
+      <workItem from="1691462102086" duration="9390000" />
     </task>
     <servers />
   </component>
@@ -77,10 +109,46 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1691479240028">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479240028" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1691479240028">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479240028" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1691479240028">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479240028" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1691479240028">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479240028" />
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1691479231204">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479231204" />
+    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1691479231203">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479231203" />
+    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1691479231203">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479231203" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1691479231204">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691479231204" />
     <state x="-1442" y="64" key="new project wizard" timestamp="1691472760527">
       <screen x="-1920" y="0" width="1920" height="1032" />
     </state>
     <state x="-1442" y="64" key="new project wizard/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691472760527" />
     <state x="364" y="48" key="new project wizard/0.0.1463.775/-1920.0.1920.1032@0.0.1463.775" timestamp="1691462186650" />
+    <state x="-1297" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1691475640783">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1297" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691475640783" />
   </component>
 </project>
