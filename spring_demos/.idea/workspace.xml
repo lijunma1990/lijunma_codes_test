@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b6c77e-a3da-4541-8a03-dc15ac17089c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03/demo03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
       <recent name="D:\lijunma_codes_test\spring_demos\demo02\src\main\java\com\example\demo02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo01Application">
+  <component name="RunManager" selected="Spring Boot.Demo03Application">
     <configuration name="Demo01Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo01.Demo01Application" />
       <module name="demo01" />
@@ -80,6 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo03.Demo03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo01Application" />
@@ -98,6 +107,14 @@
       <updated>1691462096306</updated>
       <workItem from="1691462102086" duration="9792000" />
     </task>
+    <task id="LOCAL-00001" summary="null">
+      <created>1691558531286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691558531286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +123,15 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="null" />
+    <option name="LAST_COMMIT_MESSAGE" value="null" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1360" y="101" key="CommitChangelistDialog2" timestamp="1691558530541">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1360" y="101" key="CommitChangelistDialog2/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691558530541" />
     <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1691558143752">
       <screen x="-1920" y="0" width="1920" height="1032" />
     </state>
@@ -139,10 +164,10 @@
       <screen x="-1920" y="0" width="1920" height="1032" />
     </state>
     <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691558143752" />
-    <state x="-1442" y="64" key="new project wizard" timestamp="1691472760527">
+    <state x="-1442" y="64" key="new project wizard" timestamp="1691558670652">
       <screen x="-1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="-1442" y="64" key="new project wizard/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691472760527" />
+    <state x="-1442" y="64" key="new project wizard/0.0.1463.775/-1920.0.1920.1032@-1920.0.1920.1032" timestamp="1691558670652" />
     <state x="364" y="48" key="new project wizard/0.0.1463.775/-1920.0.1920.1032@0.0.1463.775" timestamp="1691462186650" />
     <state x="-1297" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1691475640783">
       <screen x="-1920" y="0" width="1920" height="1032" />

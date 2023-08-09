@@ -27,6 +27,8 @@
         <module>demo01</module>
         <!--子模块demo02:spring mvc-->
         <module>demo02</module>
+        <!--子模块demo02:spring mvc-->
+        <module>demo03</module>
     </modules>
 
     <!-- 版本说明：这里统一管理依赖的版本号 -->
@@ -40,6 +42,11 @@
             <dependency>
                 <groupId>com.example</groupId>
                 <artifactId>demo02</artifactId>
+                <version>0.0.1-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.example</groupId>
+                <artifactId>demo03</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
         </dependencies>
